@@ -19,8 +19,10 @@ Profession:
 
 Work Pressure:
 
-Academic Pressure: от 1 до 5, где 5 - наибольшее давление, 1 - наименьшее
+Academic Pressure: 
 
 Study Satisfaction:
+
 Job Satisfaction:
+
 Dietary Habits:
